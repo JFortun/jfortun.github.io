@@ -44,7 +44,7 @@
   "date-multiplatform": "September 2019 - June 2021",
   "date-microcomputer": "September 2017 - June 2019",
   "projects": "Projects",
-  "project-inditex-description": "International project for the private company \"Inditex\" in which I am working as a backend developer using functional and reactive programming besides data streaming with Kafka.",
+  "project-inditex-description": "International project for the private company \"Inditex\" in which I am working as a backend developer on the staff engineer role, using functional and reactive programming besides data streaming with Kafka.",
   "project-inditex-technologies": "Technologies: Java 21, Spring Boot, Spring WebFlux, Spring Data, Spring Cloud Stream, Kafka, gRPC, microservices, containers, Azure, PostgreSQL, Git, Hexagonal architecture, Domain Driven Design.",
   "project-decathlon-description": "International project for the private company \"Decathlon\" in which I am working as a backend developer using functional and reactive programming.",
   "project-decathlon-technologies": "Technologies: Java 21, Spring Boot, Spring WebFlux, Spring Cloud Stream, Kafka, Kafka Streams, gRPC, microservices, containers, Google Cloud Platform, Git.",
