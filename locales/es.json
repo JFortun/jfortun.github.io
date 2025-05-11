@@ -40,5 +40,14 @@
   "date-deloitte": "Noviembre 2020 - Octubre 2022",
   "date-software-eng": "Septiembre 2021 - Cursando",
   "date-multiplatform": "Septiembre 2019 - Junio 2021",
-  "date-microcomputer": "Septiembre 2017 - Junio 2019"
+  "date-microcomputer": "Septiembre 2017 - Junio 2019",
+  "projects": "Proyectos",
+  "project-decathlon-description": "Proyecto internacional para la empresa privada \"Decathlon\" en el que trabajo como desarrollador backend utilizando programación funcional y reactiva.",
+  "project-decathlon-technologies": "Tecnologías: Java 17, Spring Boot, Spring WebFlux, Spring Cloud Stream, Kafka, Kafka Streams, gRPC, microservicios, contenedores, Google Cloud Platform, Git.",
+  "project-mytax-description": "Proyecto internacional para la fiscalidad de Bruselas en el que trabajé en el desarrollo backend de 9 impuestos en la plataforma MyTax, cuyas características incluyen pagos en línea, declaraciones y documentos entre otros.",
+  "project-mytax-technologies": "Tecnologías: Java 17, Spring Boot, JSP, arquitectura monolítica, SQL, SAP eCommerce, Git.",
+  "project-elcorteingles-description": "Proyecto nacional para la empresa privada \"El Corte Inglés\" desarrollando microservicios siguiendo la metodología API First y utilizando el estándar OpenAPI.",
+  "project-elcorteingles-technologies": "Tecnologías: Java 11, Spring Boot, Spring MVC, Spring Data JPA, SQL, microservicios, contenedores, OpenAPI, Git.",
+  "project-renfe-description": "Proyecto nacional para la empresa pública ferroviaria \"Renfe\" desarrollando el backend y frontend del sistema de pago online.",
+  "project-renfe-technologies": "Tecnologías: Java 8, Spring, JSP, SQL, arquitectura monolítica, Git."
 }
