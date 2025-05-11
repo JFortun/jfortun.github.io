@@ -1,0 +1,48 @@
+/* System font stack */
+body {
+  background-color: #f8f9fa;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+.animate-left {
+  animation: fadeInLeft 1s;
+}
+.animate-zoom {
+  animation: zoomIn 1s;
+}
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.text-blue {
+  color: #0d6efd;
+}
+.page-container {
+  max-width: 1920px;
+}
+.progress-bar-full {
+  height: 24px;
+  width: 100%;
+}
+.progress-bar-75 {
+  height: 24px;
+  width: 75%;
+}
+.github-icon {
+  height: 32px;
+}
